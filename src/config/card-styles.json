@@ -45,8 +45,8 @@
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -215,
+		"offsetY": 180,
 		"enabled": true
 	},
 	"shareCard": {
