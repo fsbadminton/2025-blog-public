@@ -1,5 +1,3 @@
-
-
 ## 1.环境
 
 - 宿主机：Windows
@@ -9,9 +7,10 @@
 - 网络模式：NAT
 
 ![](/blogs/claude-code-in-vm/75ab77d8651af25c.png)
+
 ## 2.网络配置
 
-- 宿主机上通过`ipconfig`获取WLAN下的ip地址
+- 宿主机上通过**`ipconfig`**获取WLAN下的ip地址
 
 - 虚拟机上配置代理环境变量，打开终端输入：
 
@@ -102,7 +101,7 @@ claude --help
 
 - 打开浏览器，在 GitHub 上搜索 `cc-switch` 进行版本下载（以下以 v3.16.1 为例，实际以下载版本为准）
 
-  ![](/blogs/claude-code-in-vm/459d05171a1c6978.png)
+![](/blogs/claude-code-in-vm/459d05171a1c6978.png)
 
 - 下载后安装（注意选择与系统架构匹配的安装包）
 
@@ -115,7 +114,7 @@ claude --help
 
 - 打开CCS，选择ClaudeCLI标志，点击右边 ➕ 进行配置
 
- ![](/blogs/claude-code-in-vm/a4dc6f0fae900d29.png)
+![](/blogs/claude-code-in-vm/a4dc6f0fae900d29.png)
 
 - 选择**自定义配置**，填入API Key和请求地址，在高级选项获取模型列表进行模型设置后添加即可
 
