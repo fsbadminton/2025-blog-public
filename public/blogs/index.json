@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "slug": "claude-code-in-vm",
+    "title": "虚拟机中使用Claude Code",
+    "tags": [
+      "ClaudeCode",
+      "Ubuntu"
+    ],
+    "date": "2026-06-07T01:54",
+    "summary": "虚拟机中使用Claude Code",
+    "cover": "/blogs/claude-code-in-vm/75ab77d8651af25c.png",
+    "hidden": false,
+    "category": "总结"
+  }
+]
