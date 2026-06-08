@@ -1,56 +1,13 @@
 [
 	{
-		"name": "Pixel Motion",
-		"year": 2025,
-		"description": "网页端像素绘画工具，支持组件化画布，多画布同时绘画，色彩变量",
-		"image": "https://pixel-motion.yysuni.com/favicon.svg",
-		"url": "https://pixel-motion.yysuni.com/",
-		"tags": [
-			"像素画",
-			"React",
-			"Figma",
-			"阮周刊"
-		]
-	},
-	{
-		"name": "Path Motion",
-		"year": 2025,
-		"description": "在线 svg path 工具，针对 path 绘制、压缩、运动等功能",
-		"image": "https://path-motion.yysuni.com/favicon.svg",
-		"url": "https://path-motion.yysuni.com/canvas",
-		"tags": [
-			"SVG",
-			"Path",
-			"Motion",
-			"阮周刊"
-		],
-		"github": "https://github.com/YYsuni/path-motion"
-	},
-	{
-		"name": "Blockies",
-		"year": 2023,
-		"description": " Blockies React组件，SVG 实现，用于生成区块链地址的图标。这是我的第一个有人用的组件，虽然人不多",
-		"image": "/images/blockies.svg",
-		"url": "https://blockies-react-svg.vercel.app/",
-		"tags": [
-			"React",
-			"SVG",
-			"Blockies"
-		],
-		"github": "https://github.com/YYsuni/blockies-react-svg",
-		"npm": "https://www.npmjs.com/package/blockies-react-svg"
-	},
-	{
 		"name": "Nexus-Bot",
 		"year": 2026,
-		"image": "blob:https://seabo-blog.mat90566.workers.dev/49dafa41-b08d-43f8-9eb5-5e717d0fe372",
+		"image": "/images/project/7dda21b605c739b0.png",
 		"url": "https://github.com/fsbadminton/nexus-bot",
-		"description": "一款基于Nanobot的多平台智能客服Agent",
+		"description": "一款多平台智能客服Agent",
 		"tags": [
-			"Agent",
-			"MCP",
-			"Skills"
+			"MCP，SKILLS，Agent"
 		],
-		"github": "https://github.com/fsbadminton/nexus-bot.git"
+		"github": "https://github.com/fsbadminton/nexus-bot"
 	}
 ]
