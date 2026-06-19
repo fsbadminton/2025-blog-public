@@ -1,5 +1,20 @@
 [
   {
+    "slug": "cc-in-mac",
+    "title": "Mac 踩坑记：完美解决 Claude Code 指令集冲突 (Illegal Hardware Instruction) 与 SSL 证书报错",
+    "tags": [
+      "Claude Code",
+      "MacOS",
+      "MacBook2012",
+      "Illegal Hardware Instruction"
+    ],
+    "date": "2026-06-19T23:13",
+    "summary": "MacBook用ClaudeCode指令集冲突",
+    "cover": "/blogs/cc-in-mac/a5400d18bcb47da0.png",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "claude-code-in-vm",
     "title": "虚拟机中使用Claude Code",
     "tags": [
